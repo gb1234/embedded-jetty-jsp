@@ -58,7 +58,7 @@ public class Main
 
     public static void main(String[] args) throws Exception
     {
-        int port = 8080;
+        int port = 8084;
         LoggingUtil.config();
         Log.setLog(new JavaUtilLog());
 
